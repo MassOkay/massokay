@@ -4,8 +4,8 @@
 「作ったことのあるものは直すことができる」を座右の銘に、長く使うことのできるものを作りたいです。
 
 - 🔭 **I’m currently working on:**
-  - SFCシラバスRAGシステムの構築
-  - 学習机のリノベ
+  - Discord Minecraft bot
+  - Agentic Life log
  
 - 🌱 **Tech Stack:**
   - **Languages:** Python (FastAPI), TypeScript (Next.js), Rust
